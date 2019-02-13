@@ -13,3 +13,11 @@
 * 名词：revenue，（广告）收入，CPC，cost per click，OCPC，optimized cost per click。CPM，cost per mille，KPI，key performance indicators，ROI，return of investment,CTR，click-through rate，CVR，conversion rate.small and mediumsized
 advertisers 
 * 阿里的文章，如果只按照cpc收费是没有办法调整bid的，这篇文章提出了ocpc，使得价格是可以变动的，即保护了中小广告主不会被大广告主挤走，也给平台注入了更多活力
+
+### Pricing of Online Advertising: Cost-per-Click-through vs. Cost-per-Action, HICSS,2010
+* incentive contracts,激励性合约
+* CPC转嫁了一部分风险在广告主这边，因为是否产生点击（在没有第三方监督的情况下）是平台说了算，而有没有买东西，有没有下载去转化，则是广告主说了算的。
+
+
+
+
