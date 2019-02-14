@@ -18,6 +18,7 @@ advertisers
 * incentive contracts,激励性合约
 * CPC转嫁了一部分风险在广告主这边，因为是否产生点击（在没有第三方监督的情况下）是平台说了算，而有没有买东西，有没有下载去转化，则是广告主说了算的。
 
-
-
-
+### Hybrid Keyword Search Auctions, WWW, 2009
+impression，在广告里面指的是“曝光”，“展示”，即一个广告被看到。
+ banner advertisements，横幅标语广告。
+ CPM对于平台风险最小，对广告主最大，CPA对于平台风险最大，对广告主最小。而CPC则介于两者之间，因而CPC是一个比较广泛使用的方式。在CPC中，平台只负责尽量优化其点击率，而广告主则根据落地页尽量优化转化率。
