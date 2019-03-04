@@ -32,7 +32,9 @@ impression，在广告里面指的是“曝光”，“展示”，即一个广�
 ### Learning to Rank using Gradient Descent，ICML，2005
 * learning to rank这个领域的开山之作，使用神经网络来进行这一项任务。里面提到了要用sigmoid用作概率的表示，以及用BCE loss来进行ranking。
 
-
+### Learning to Rank with Nonsmooth Cost Functions，NIPS，2006
+* IR领域中一些常见的衡量指标：Mean Reciprocal Rank (MRR)，如果某个query的结果rank是r，那么平均所有的r分之一。Winner
+Takes All (WTA)，只看第一个对不对
 
 
 
