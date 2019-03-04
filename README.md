@@ -25,6 +25,16 @@ impression，在广告里面指的是“曝光”，“展示”，即一个广�
 
 
 ## Network Initialization
-Understanding the difficulty of training deep feedforward neural networks，ICAIS，2010
+### Understanding the difficulty of training deep feedforward neural networks，ICAIS，2010
 * 通过会线性网络的一些分析，得到了新的初始化方法，和前一层，这一层的神经元个数都有关系，从中可以推导出xarvier的均匀分布和高斯分布
+
+## Learning to Rank (LTR)
+### Learning to Rank using Gradient Descent，ICML，2005
+* learning to rank这个领域的开山之作，使用神经网络来进行这一项任务。里面提到了要用sigmoid用作概率的表示，以及用BCE loss来进行ranking。
+
+
+
+
+
+
 
