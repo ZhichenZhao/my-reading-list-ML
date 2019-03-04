@@ -35,7 +35,7 @@ impression，在广告里面指的是“曝光”，“展示”，即一个广�
 ### Learning to Rank with Nonsmooth Cost Functions，NIPS，2006
 * IR领域中一些常见的衡量指标：Mean Reciprocal Rank (MRR)，如果某个query的结果rank是r，那么平均所有的r分之一。Winner
 Takes All (WTA)，只看第一个对不对
-
+* lambdaRank的思想总结起来，就是引入和指标有关系的一些不能求导的，或者不凸的函数的“虚梯度”，比如loss写作BCE，但是评价的时候是NDCG，这时候就会对头部特别看重，如果排名是1，2的两个样本预测为2，10，就会对两个产生相同幅度的梯度，这肯定是不对的。lambda在这里的作用，就是要让前一个样本迅速达到位置（受益最大），因此可以通过指标求出导数作为lambda。
 
 
 
