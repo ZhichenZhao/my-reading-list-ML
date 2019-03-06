@@ -9,10 +9,7 @@
 ### Field-aware Factorization Machines for CTR Prediction, RecSys, 2016
 * 在FM的基础上给了一个field，这个field主要解决的问题就是原来每个元素只有唯一的v，两个看起来没什么关联的field还是只能用这个来相乘，但是如果变成fv个，f是field数量，那用专门的field的v去乘就好了。
 
-### Optimized Cost per Click in Taobao Display Advertising, KDD, 2017
-* 名词：revenue，（广告）收入，CPC，cost per click，OCPC，optimized cost per click。CPM，cost per mille，KPI，key performance indicators，ROI，return of investment,CTR，click-through rate，CVR，conversion rate.small and mediumsized
-advertisers 
-* 阿里的文章，如果只按照cpc收费是没有办法调整bid的，这篇文章提出了ocpc，使得价格是可以变动的，即保护了中小广告主不会被大广告主挤走，也给平台注入了更多活力
+
 
 ### Pricing of Online Advertising: Cost-per-Click-through vs. Cost-per-Action, HICSS,2010
 * incentive contracts,激励性合约
