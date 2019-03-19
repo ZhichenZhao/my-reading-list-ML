@@ -20,6 +20,8 @@ impression，在广告里面指的是“曝光”，“展示”，即一个广�
  banner advertisements，横幅标语广告。
  CPM对于平台风险最小，对广告主最大，CPA对于平台风险最大，对广告主最小。而CPC则介于两者之间，因而CPC是一个比较广泛使用的方式。在CPC中，平台只负责尽量优化其点击率，而广告主则根据落地页尽量优化转化率。
 
+### Wide & deep learning for recommender systems，1st Workshop on Deep learning in Recommending system，2016
+* 结合人工先验的特征和需要学习规律的特征如何结合呢，方法是，人工先验的特征直接用LR输出，而需要学习的那部分扔给神经网络。最后把两者进行结合。
 
 ## Network Initialization
 ### Understanding the difficulty of training deep feedforward neural networks，ICAIS，2010
