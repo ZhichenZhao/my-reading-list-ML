@@ -40,6 +40,7 @@ Takes All (WTA)，只看第一个对不对
 ### Item-Based Collaborative Filtering Recommendation Algorithms,WWW,2001
 * 早期的CB，还比较简单，直接计算item之间的相似度，做一个类似KNN的就可以，这篇文章提到为什么是item而不是user的原因是user比item要稀疏很多。
 
-
+### Unifying User-based and Item-based Collaborative Filtering Approaches by Similarity Fusion，SIGIR，2006
+* 不单独使用item或者user的相似度，也使用user-item都相似的二阶数据，融合方式比较简单，就是一个加权和。
 
 
